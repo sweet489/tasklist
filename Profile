@@ -1,2 +1,5 @@
 web: php artisan serve
+<<<<<<< HEAD
 web: vendor/bin/heroku-php-apache2 public/index.php 
+=======
+>>>>>>> a6e2838c2daa93e02f033f150298b68941e924d3
